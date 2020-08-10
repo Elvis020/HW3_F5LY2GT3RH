@@ -3,15 +3,15 @@ function SampleWallpapers() {
   return (
     <div className="sample-wallpaper">
       <article className="wallpaper">
-        <img src="../../public/img/venom_1.jpg" alt="Wallpaper" className="wallpaper img-1" />
+        <img src="../img/venom_1.jpg" alt="Wallpaper" className="wallpaper img-1" />
       </article>
 
       <article className="wallpaper">
-        <img src="../../public/img/hulk-1.jpg" alt="Wallpaper #1" className="wallpaper img-2"  />
+        <img src="../img/hulk-1.jpg" alt="Wallpaper #1" className="wallpaper img-2"  />
       </article>
 
       <article className="wallpaper">
-        <img src="../../public/img/venom-2.jpg" alt="Wallpaper #1" className="wallpaper img-3"  />
+        <img src="../heightimg/venom-2.jpg" alt="Wallpaper #1" className="wallpaper img-3"  />
       </article>
     </div>
   )
