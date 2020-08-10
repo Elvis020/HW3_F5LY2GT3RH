@@ -11,7 +11,7 @@ function SampleWallpapers() {
       </article>
 
       <article className="wallpaper">
-        <img src="../heightimg/venom-2.jpg" alt="Wallpaper #1" className="wallpaper img-3"  />
+        <img src="../img/venom-2.jpg" alt="Wallpaper #1" className="wallpaper img-3"  />
       </article>
     </div>
   )
